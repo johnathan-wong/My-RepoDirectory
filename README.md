@@ -11,11 +11,13 @@
 ### Web Developement
 
 * **[My Portfolio Website](https://github.com/yakultproducer/Johnathan-Wong-Portfolio-Website)** <br> A website that showcase me. :)
+* **[Drawing Identifier](https://github.com/yakultproducer/Drawing-Identifier)** <br> An interactive web application that help user visualize neural network model.
+* **[E-commerce Website](https://github.com/yakultproducer/E-commerce__FusionFlorist)** <br> E-commerce mock up website that showcase using RESTful API and NodeJS.
 * **[NorthStar Control Panel](https://github.com/yakultproducer/WEB-NorthStar)** <br> NorthStart Bot's control panel website for changing the Discord bot setting on your Discord's server.
 
 ### Unity Proejcts
 
-* **[Augmented Reality AI Chat Game]()** <br> AR game that allow you to interact with real world and talk to AI.
+* **[Augmented Reality AI Chat Game](https://github.com/yakultproducer/InWorld-Project)** <br> AR game that allow you to interact with real world and talk to AI.
 * **[2D top down shooter](https://github.com/yakultproducer/Unity-2D-Shooter)** <br> Still in developement.<br> Simple top down shooter allow you to dual wield guns and blast your enemies.
 # Course Works
 
